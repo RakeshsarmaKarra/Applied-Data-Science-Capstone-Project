@@ -3,4 +3,4 @@
 ![dt](https://github.com/RakeshsarmaKarra/Applied-Data-Science-Capstone-Project/blob/main/Space%20X%20API%20Calls%20-%20Screenshot.png)
 
 ## Data Import Procedure
-![dt2]()
+![dt2](https://github.com/RakeshsarmaKarra/Applied-Data-Science-Capstone-Project/blob/main/Space%20X%20API%20Calls.jpg)
