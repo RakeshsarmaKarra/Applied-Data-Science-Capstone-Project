@@ -1,4 +1,6 @@
-## This repository contains files belongs to IBM Data Science Capstone Project.
+[![Picture](https://github.com/RakeshsarmaKarra/Applied-Data-Science-Capstone-Project/blob/main/IBM%20Data%20Science%20Capstone%20Project%20Picture.jpg)](https://github.com/RakeshsarmaKarra/Applied-Data-Science-Capstone-Project)
+
+
 ## Sample Records
 ![dt](https://github.com/RakeshsarmaKarra/Applied-Data-Science-Capstone-Project/blob/main/Space%20X%20API%20Calls%20-%20Screenshot.png)
 
